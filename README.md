@@ -1,38 +1,35 @@
 # Developer MeetUp
 
-Software Engineering und Developer MeetUp in Freiburg
+Software Engineering and Developer MeetUp in Freiburg
 
 ### Abstract
 
-In Freiburg gibt es bisher keine MeetUps für Entwickler und Informatiker. Unser
-Ziel ist es ein monatliches Treffen zu organisieren, bei dem man sich zur
-tiefergehenden Software Entwicklung und informatischen Themen im Allgemeinen
-austauscht.
+Our target is to organize a monthly meetup where we can talk and exchange 
+experience about all topics around software development - covering in-depth
+discussions about technical topics or general development stuff.
 
-Im Allgemeinen soll es bei den Treffen ein Thema geben, mit dem man sich durch
-einen kurzen Vortrag aus einander setzt. Anschließende Diskussionen sollen die
-Betrachtungsweise dieses Themas differenzeren.
+We aim to have talks up to 30 minutes which serve as an introduction or
+kickstart for a discussion.
 
 
 ### MeetUp für
 
-* Software Devs
-* Web-Developer: Front-End und Back-End
-* Informatiker
-* Technische Projektmanager
+* Software Developer
+* Web-Developer: Front-End and Back-End
+* Technical project manager
 
 
 ### Location
-[Freiraum](http://freiraumfreiburg.de/) – nähe Bahnhof (siehe
-[Karte](map.geojson))
+[Grünhof](http://www.gruenhof.org/) – nähe Bahnhof
 
 
 ### Sponsoren
 
-Vielen Dank an alle die uns Unterstützen.
+Thanks to our sponsors:
 
-Freiraum wird uns zur Verfügung gestellt von
-[/gebrüderheitz](http://gebruederheitz.de/)
+[Continum](https://www.continum.net/) - sponsors the room
+
+[Codio](https://codio.com/) - sponsor for drinks
 
 
 ### Organisation
